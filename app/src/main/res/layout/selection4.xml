@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2196F3">
+
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="102dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="464dp"
+        android:background="@drawable/square"
+        android:text="SQUARE"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="152dp"
+        android:text="SHAPES"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="160dp"
+        android:layout_height="157dp"
+        android:layout_marginTop="140dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/triangle"
+        android:text="TRIANGLE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="103dp"
+        android:layout_height="105dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="336dp"
+        android:background="@drawable/circle"
+        android:text="CIRCLE"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="145dp"
+        android:layout_height="88dp"
+        android:layout_marginTop="540dp"
+        android:layout_marginEnd="28dp"
+        android:background="@drawable/star"
+        android:text="STAR"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="92dp"
+        android:layout_height="101dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="540dp"
+        android:background="@drawable/heart"
+        android:text="HEART"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="124dp"
+        android:layout_height="123dp"
+        android:layout_marginTop="336dp"
+        android:layout_marginEnd="36dp"
+        android:background="@drawable/hexagon"
+        android:text="Hexagon"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
