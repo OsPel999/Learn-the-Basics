@@ -26,7 +26,7 @@ Screenshots:
 ![Start](https://user-images.githubusercontent.com/109008790/200431752-07de42b4-844a-4459-8d39-f28dd451b643.JPG)
 
 
-![Home Selections](https://user-images.githubusercontent.com/109008790/200432447-029fe0c5-bacd-488f-8203-8eab64e6b02f.JPG)
+![Home Selections](https://user-images.githubusercontent.com/109008790/200647264-1bcf06c4-8be9-48a7-bd71-3fc6df3b0ed2.JPG)
 
 
 ![ABCsSelection](https://user-images.githubusercontent.com/109008790/200432491-df4e4d02-f47a-4ac0-9142-b5004f1ed549.JPG)
